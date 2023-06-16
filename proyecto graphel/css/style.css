@@ -74,7 +74,15 @@ img .cabecera {
 */
 
 
+.segundo {
+color:white;
+margin-left: 150px;
+font-size: 28px;
+}
 
-/*
-<img src="images/cabecera.jpg" alt="cabecera" class="cabecera">
-*/
+.diseño-fondo{
+    background-color: rgb(66, 66, 66);
+    padding-top: 30px;
+    text-align: left;
+    margin: 0px;
+}
